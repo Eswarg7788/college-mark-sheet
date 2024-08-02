@@ -1,0 +1,108 @@
+.section{
+    margin-left: 300px;
+}
+.dark{
+    width: 750px;
+    height: 1200px;
+    background-color:rgb(255, 253, 238);
+    border: 1px solid rgb(0, 0, 0);
+}
+.head{
+    display: flex;
+    background-color: rgb(207, 237, 233);
+    width: 730px;
+    margin-top: 10px;
+    margin-left: 10px;
+    height:150px;
+}
+.logo{
+    width: 150px;
+    height: 150px;
+    border-radius: 30px;
+    position: relative;
+    left: 150px;
+}
+.scanner{
+    position: relative;
+    top: 40px;
+    left: 300px;
+    width: 100px;
+    height: 100px;
+}
+.num{
+    color: red;
+
+}
+.num,.no{
+   position: relative;
+   left: 20px;
+   top: 40px;
+}
+.english{
+    position: relative;
+    font-size: 20px;
+    left: 70px;
+    color: rgba(0, 10, 83, 0.933);
+}
+.sub{
+    position: relative;
+    left:125px;
+    bottom:18px;
+}
+.sub2{
+    position: relative;
+    left:130px;
+    bottom: 40px;
+}
+.statement{
+    color: rgb(216, 63, 49);
+    font-size:25px;
+    position: relative;
+    left: 200px;
+    bottom: 60px;
+}
+.hole{ 
+    width:700px;
+    height: 100px;
+    border: 1px solid black;
+    background-color: white;
+    position: relative;
+    left:25px;
+    bottom:100px;
+}
+table{
+    width: 650px;
+    height: 50px;
+    border: 1px solid rgb(4, 4, 4);
+    position: relative;
+    bottom: 70px;
+    left: 50px;
+    border-collapse: collapse;
+}
+td{
+    border: 1px solid rgb(2, 2, 2);
+    height: 60px;
+    text-align: center;
+}
+tr{
+    width: 100%;
+    border: 0px solid rgb(11, 11, 11);
+}
+.c1{
+     font-size: 20px;
+     text-align: center;
+}
+.c2{
+    font-size: 20px;
+    text-align: center;
+}
+.r1{
+    position: relative;
+    left: 500px;
+    bottom: 40px;
+}
+.date{
+    position: relative;
+    left: 70px;
+    top: 10px;
+}
